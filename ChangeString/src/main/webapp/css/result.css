@@ -1,0 +1,29 @@
+@charset "utf-8";
+.wrapper {
+	width: 1000px;
+	height: 1000px;
+	text-align: center;
+}
+#resultText {
+	resize: none;
+	width: 300px;
+	height: 500px;	
+}
+#btnCopyText {
+	color: white;
+	padding: 5px 10px;
+	background-color: #52b212;
+	border: 1px solid rgba(0,0,0,0.21);
+	border-bottom: 4px solid rgba(0,0,0,0.21);
+	border-radius: 4px;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.15);
+}
+#btnReturnToIndex {
+	color: white;
+	padding: 5px 10px;
+	background-color: #b7b7b7;
+	border: 1px solid rgba(0,0,0,0.21);
+	border-bottom: 4px solid rgba(0,0,0,0.21);
+	border-radius: 4px;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.15);
+}
