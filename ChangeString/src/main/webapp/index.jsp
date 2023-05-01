@@ -46,6 +46,10 @@
 
 			beforeText.value = "";
 		}
+		
+		/*
+		Something is changed
+		*/
 	</script>
 </body>
 </html>
