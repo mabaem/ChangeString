@@ -50,6 +50,11 @@
 		/*
 		Something is changed
 		*/
+		
+		/*
+		Something is deleted
+		*/
+		
 	</script>
 </body>
 </html>
